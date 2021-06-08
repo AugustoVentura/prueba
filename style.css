@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #ffffff;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.bar{
+    display: inline;
+    display: flex;
+}
+
+.logo{
+    width: 46px;
+    height: 46px;
+    float: left;
+    margin-top: 17px;
+    margin-left: 17px;
+}
+
+.inicio{
+    padding: 30px 28px 30px 18px
+}
+
+
+nav ul li{
+    display: inline-block;
+    block-size: auto;
+    text-decoration: none;
+}
+
+.buscador{
+    border:thin;
+    color:#333;
+    margin-left: 7px;
+    width: 61%;
+}
+
+.lente{
+    width: 18px;
+    height: 18px;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+.campana{
+    width: 38px;
+    height:38px;
+    float: right;
+}
+
+.mensaje{
+    width: 38px;
+    height:38px;
+    float: right;
+}
+
+.login{
+    width: 38px;
+    height:38px;
+    float:right;
+}
+
+.pestaña{
+    width: 38px;
+    height:38px;
+    float: right;
+}
